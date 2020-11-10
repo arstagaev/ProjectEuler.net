@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a581526b-120a-438c-a2a2-a19ce12ccdb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/Java_Code_Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Code Challenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/androidTest/java/com/revolve44/mpandroidchart/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/java/com/revolve44/mpandroidchart/FrOne.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/java/com/revolve44/mpandroidchart/FrTwo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/java/com/revolve44/mpandroidchart/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/java/com/revolve44/mpandroidchart/MyXAxisValuesFormatter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/layout/fr_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/layout/fr_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPAndroidChart/app/src/test/java/com/revolve44/mpandroidchart/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstten/EvenFibonacciNumbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstten/Multiplesof3and5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/androidTest/java/com/revolve44/smartmonitor1/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/java/com/revolve44/smartmonitor1/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/java/com/revolve44/smartmonitor1/RecyclerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/layout/row_on_main_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SmartMonitor1/app/src/test/java/com/revolve44/smartmonitor1/ExampleUnitTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Xiaomi\Desktop\MyApps\Practice\ProjectEuler\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k79hlXfU6VHbgtNCClN8FmeuEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiaomi\Desktop\MyApps\Practice\ProjectEuler\src\firstten" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.EvenFibonacciNumbersKt">
+    <configuration name="EvenFibonacciNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="firstten.EvenFibonacciNumbersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplesof3and5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="firstten.Multiplesof3and5Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.EvenFibonacciNumbersKt" />
+        <item itemvalue="Kotlin.Multiplesof3and5Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a581526b-120a-438c-a2a2-a19ce12ccdb5" name="Default Changelist" comment="" />
+      <created>1605040883691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605040883691</updated>
+      <workItem from="1605040886631" duration="2787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom" timestamp="1605043697994">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605043697994" />
+    <state width="1237" height="171" key="GridCell.Tab.0.center" timestamp="1605043697994">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="171" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1605043697994" />
+    <state width="1237" height="171" key="GridCell.Tab.0.left" timestamp="1605043697994">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="171" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1605043697994" />
+    <state width="1237" height="171" key="GridCell.Tab.0.right" timestamp="1605043697994">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="171" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1605043697994" />
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom" timestamp="1605043573330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605043573330" />
+    <state width="1237" height="258" key="GridCell.Tab.1.center" timestamp="1605043573330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1605043573330" />
+    <state width="1237" height="258" key="GridCell.Tab.1.left" timestamp="1605043573330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1605043573330" />
+    <state width="1237" height="258" key="GridCell.Tab.1.right" timestamp="1605043573330">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1605043573330" />
+  </component>
+</project>
